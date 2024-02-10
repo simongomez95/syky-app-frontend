@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+## Setup
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+To run the app, you need to have Node.js and npm installed. Then you can run the following commands in the project directory:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+```bash
+npm install
+npm run start
+```
+
+The app will run on http://localhost:3000, or http://localhost:3001 if your port 3000 is already in use.
